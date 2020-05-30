@@ -38,6 +38,6 @@ sudo systemctl enable ssh.service
 }
 
 #SSH_Setup
-raspberry_config
+#raspberry_config
 #docker
-#lcd_setup
+lcd_setup
